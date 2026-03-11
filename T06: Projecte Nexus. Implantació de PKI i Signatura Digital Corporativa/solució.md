@@ -13,7 +13,8 @@ Aquesta guia descriu els passos necessaris per completar l’activitat de config
 **On es fa:** Group Policy Management → Default Domain Policy → Edit → Computer Configuration → Policies → Windows Settings → Security Settings → Account Policies → Password Policy → “Minimum password length”.
 
 Tal com es veu a la imatge:
-![foto](IMG/1.png)
+
+![foto](img/1.png)
 
 ### 1.2 Política específica per a Gerència (VIP)
 **Acció:** Crear una GPO anomenada POL_Contrasenyes_Gerencia i configurar els paràmetres següents:
@@ -28,37 +29,44 @@ Tal com es veu a la imatge:
 1. Crear la GPO des de l’OU gerencia → New GPO → nom POL_Contrasenyes_Gerencia.
 
 Tal com es veu a la imatge:
-![foto](IMG/2.jpg)
+
+![foto](img/2.png)
 
 2. Editar la GPO i accedir a la configuració de la política de contrasenyes.
 
 Tal com es veu a la imatge:
-![foto](IMG/3.jpg)
+
+![foto](img/3.png)
 
 3. Activar l’opció “Relax minimum password length limits” (Enabled).
 
 Tal com es veu a la imatge:
-![foto](IMG/4.jpg)
+
+![foto](img/4.png)
 
 4. Definir “Minimum password length = 18”.
 
 Tal com es veu a la imatge:
-![foto](IMG/5.jpg)
+
+![foto](img/5.png)
 
 5. Definir “Maximum password age = 28 dies”.
 
 Tal com es veu a la imatge:
-![foto](IMG/6.jpg)
+
+![foto](img/6.png)
 
 6. Deshabilitar “Password must meet complexity requirements” (Disabled).
 
 Tal com es veu a la imatge:
-![foto](IMG/7.jpg)
+
+![foto](img/7.png)
 
 7. Comprovar que l’enllaç a l’OU gerencia està habilitat: a l’OU gerencia, pestanya “Linked Group Policy Objects”, la GPO ha de tenir Link Enabled = Yes.
 
 Tal com es veu a la imatge:
-![foto](IMG/image.jpg)
+
+![foto](img/image.png)
 
 ### 1.3 GPO Bonus – Bloqueig de pantalla per a Magatzem
 **Acció:** Crear una GPO POL_Bloqueig_Pantalla_Magatzem per a l’OU magatzem que activi el protector de pantalla amb contrasenya després de 5 minuts d’inactivitat.
@@ -70,27 +78,32 @@ Tal com es veu a la imatge:
 1. Crear la GPO des de l’OU magatzem.
 
 Tal com es veu a la imatge:
-![foto](IMG/8.jpg)
+
+![foto](img/8.png)
 
 2. Configurar “Enable screen saver” = Enabled.
 
 Tal com es veu a la imatge:
-![foto](IMG/9.jpg)
+
+![foto](img/9.png)
 
 3. Configurar “Screen saver timeout” = Enabled, segons = 300.
 
 Tal com es veu a la imatge:
-![foto](IMG/10.jpg)
+
+![foto](img/10.png)
 
 4. Configurar “Password protect the screen saver” = Enabled.
 
 Tal com es veu a la imatge:
-![foto](IMG/11.jpg)
+
+![foto](img/11.png)
 
 5. Vista general de les polítiques aplicades.
 
 Tal com es veu a la imatge:
-![foto](IMG/12.jpg)
+
+![foto](img/12.png)
 
 ---
 
@@ -104,22 +117,26 @@ Tal com es veu a la imatge:
 1. Localitzar els fitxers a C:\Programari\MSI.
 
 Tal com es veu a la imatge:
-![foto](IMG/13.jpg)
+
+![foto](img/13.png)
 
 2. Seleccionar els usuaris o grups per compartir la carpeta.
 
 Tal com es veu a la imatge:
-![foto](IMG/14.jpg)
+
+![foto](img/14.png)
 
 3. Assignar permisos de lectura als usuaris del domini.
 
 Tal com es veu a la imatge:
-![foto](IMG/15.jpg)
+
+![foto](img/15.png)
 
 4. Confirmar la ruta compartida \\DC20\Programari.
 
 Tal com es veu a la imatge:
-![foto](IMG/16.jpg)
+
+![foto](img/16.png)
 
 ### 2.2 GPO per a Gestió (7-Zip assignat)
 **Acció:** Crear una GPO POL_Software_Gestio enllaçada a l’OU gestio que desplegui 7-Zip en mode Assigned (instal·lació automàtica).
@@ -131,10 +148,8 @@ Tal com es veu a la imatge:
 3. Nou paquet → seleccionar \\DC20\Programari\7z2600-x64.msi → triar Assigned.
 
 Tal com es veu a la imatge:
-![foto](IMG/17.jpg)
 
-### 2.3 GPO per a Gerència (Firefox publicat)
-**Acció:** Crear una GPO POL_Firefox_Gerencia enllaçada a l’OU gerencia que desplegui Firefox en mode Published.
+![foto](img/17.png)
 
 ---
 
@@ -146,13 +161,14 @@ Tal com es veu a la imatge:
 **Passos detallats:**
 
 1. Crear la carpeta.
-2. Compartir-la amb nom perfils i permisos de compartir: Usuaris del domini amb Canvi (o Control total).
+2. Compartir-la amb nom perfils i permisos de compartir: Usuaris del domini amb Canvi.
 3. Configurar permisos NTFS: Usuaris del domini amb Modificació.
 
 Tal com es veu a les imatges:
-![foto](IMG/18.jpg)
-![foto](IMG/19.jpg)
-![foto](IMG/20.jpg)
+
+![foto](img/18.png)
+![foto](img/19.png)
+![foto](img/20.png)
 
 ---
 
@@ -161,14 +177,9 @@ Tal com es veu a les imatges:
 ### 4.1 Configuració de la redirecció de Documents
 **Acció:** Crear o modificar una GPO enllaçada a l’arrel del domini per redirigir la carpeta “Documents” a la carpeta personal de l’usuari (home folder).
 
-**Passos detallats:**
-
-1. Editar la GPO.
-2. Anar a User Configuration → Policies → Windows Settings → Folder Redirection → Documents.
-3. Propietats → Setting = “Basic - Redirect everyone’s folder to the same location” → Target folder location = “Redirect to the user’s home directory”.
-
 Tal com es veu a la imatge:
-![foto](IMG/21.jpg)
+
+![foto](img/21.png)
 
 ---
 
@@ -177,40 +188,28 @@ Tal com es veu a la imatge:
 ### 5.1 Creació de l’usuari adminOU
 **Acció:** Crear un usuari dins l’OU Users amb nom adminOU i contrasenya que no caduqui.
 
-**Passos detallats:**
+Tal com es veu a la imatge:
 
-1. Active Directory Users and Computers → New → User → omplir les dades.
+![foto](img/23.png)
+
+Configurar la contrasenya marcant “Password never expires”.
 
 Tal com es veu a la imatge:
-![foto](IMG/23.jpg)
 
-2. Configurar la contrasenya marcant “Password never expires”.
-
-Tal com es veu a la imatge:
-![foto](IMG/24.jpg)
+![foto](img/24.png)
 
 ### 5.2 Delegació de control sobre l’OU principal
 **Acció:** Atorgar a l’usuari adminOU permisos per reiniciar contrasenyes i modificar la pertinença a grups.
 
-**Passos detallats:**
+Tal com es veu a la imatge:
 
-1. Fer clic dret sobre l’OU → Delegar control.
-2. Afegir l’usuari adminOU i triar tasques comunes.
+![foto](img/25.png)
 
 Tal com es veu a la imatge:
-![foto](IMG/25.jpg)
 
-3. Crear una tasca personalitzada i seleccionar objectes d’usuari.
-
-Tal com es veu a la imatge:
-![foto](IMG/26.jpg)
-
-4. Seleccionar objectes de grup.
+![foto](img/26.png)
 
 Tal com es veu a la imatge:
-![foto](IMG/27.jpg)
 
-5. Atorgar permisos de lectura/escriptura.
+![foto](img/27.png)
 
-Tal com es veu a la imatge:
-![foto](IMG/28.jpg)
