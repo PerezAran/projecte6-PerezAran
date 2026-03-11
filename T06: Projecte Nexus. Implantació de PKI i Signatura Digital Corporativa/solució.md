@@ -13,7 +13,7 @@ Aquesta guia descriu els passos necessaris per completar l’activitat de config
 **On es fa:** Group Policy Management → Default Domain Policy → Edit → Computer Configuration → Policies → Windows Settings → Security Settings → Account Policies → Password Policy → “Minimum password length”.
 
 Tal com es veu a la imatge:
-![foto](IMG/1.jpg)
+![foto](IMG/1.png)
 
 ### 1.2 Política específica per a Gerència (VIP)
 **Acció:** Crear una GPO anomenada POL_Contrasenyes_Gerencia i configurar els paràmetres següents:
