@@ -212,3 +212,8 @@ Tal com es veu a la imatge:
 Tal com es veu a la imatge:
 
 ![foto](img/27.png)
+
+Ara instalarem al rs. Tal i com es veu a la imatge:
+
+![foto](img/30.png)
+![foto](img/31.png)
