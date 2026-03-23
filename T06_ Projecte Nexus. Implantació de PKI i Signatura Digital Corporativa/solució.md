@@ -36,7 +36,9 @@ Un cop hem fet l´estructura de directoris i la configuració open ssl he m de g
 
 ### Permisos
 
-Ara hem de posar els permisos correctes, perque el client pugui entrar sense cap problema.
+Quan es van copiar els certificats a la carpeta /var/www/html/ per publicar-los al portal web, es van ajustar els permisos perquè el servidor Apache pogués llegir els fitxers correctament.
+
+Es va utilitzar chmod 644 per donar permisos de lectura a tothom i escriptura només al propietari. Després, amb chown, es va canviar la propietat dels fitxers a l’usuari www-data i al grup www-data, que és l’usuari amb què s’executa el servidor web.
 
 ![foto](t06/12.png)
 
