@@ -22,7 +22,11 @@ Es va crear l’estructura de directoris que OpenSSL utilitzarà per emmagatzema
 ![foto](t06/7.png)
 ### Generació del certificat arrel (CA)
 
-Ara em de generar els certficats per al client tal i com es veu a les  imatges:
+Un cop hem fet l´estructura de directoris i la configuració open ssl he m de generar els certficats nesecaris:
+
+* Certificat de l’Autoritat de Certificació (CA): es va crear un certificat autosignat que actua com a arrel de confiança. Per fer-ho, es va executar l’ordre que genera una clau privada i un certificat autosignat, indicant la ruta on emmagatzemar-los i la validesa (10 anys). Durant el procés es va protegir la clau privada amb una contrasenya i es van introduir les dades de l’organització (Nexus, ubicació, nom del servidor). Aquest certificat és el que després es distribueix als clients perquè confiïn en tots els certificats emesos per la nostra CA.
+
+* Certificat d’usuari: el client va generar una sol·licitud (CSR) amb les seves dades i la va enviar a l’administrador. Amb l’ordre de signatura d’OpenSSL, l’administrador va processar aquesta sol·licitud: va verificar la informació, va demanar la contrasenya de la CA per desbloquejar la clau privada i va emetre el certificat digital signat. Aquest certificat conté la clau pública de l’usuari i està vinculat a la identitat que va indicar a la sol·licitud. La signatura de la CA garanteix que el certificat és autèntic i pot ser utilitzat per a la signatura de documents.
 
 ![foto](t06/8.png)
 
