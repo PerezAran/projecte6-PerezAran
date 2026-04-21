@@ -217,3 +217,6 @@ Ara instalarem al rs. Tal i com es veu a la imatge:
 
 ![foto](img/30.png)
 ![foto](img/31.png)
+
+## Conclusió:
+Aquest conjunt de configuracions transforma la infraestructura de TransLògic S.A. en un sistema escalable. Les evidències gràfiques adjuntades al llarg del document certifiquen que cada directiva (GPO) i configuració de xarxa s'han aplicat seguint les millors pràctiques d'administració de sistemes Windows Server.
