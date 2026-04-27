@@ -152,6 +152,12 @@ Tal com es veu a la imatge:
 ![foto](img/17.png)
 
 ---
+### 2.3 Desplagament firefox:
+
+![foto](img/60.png)
+
+S'ha actualitzat la configuració del Firefox a través de Group Policy per al domini translogic20.test.
+Ara l'aplicació es desplega des del servidor DC20.TRANSLOGIC20.TEST amb la versió 148.0 publicada correctament.
 
 ## 3. Mobilitat d’Usuaris (Perfils Mòbils)
 
