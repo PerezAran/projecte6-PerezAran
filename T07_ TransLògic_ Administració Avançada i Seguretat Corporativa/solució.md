@@ -169,13 +169,13 @@ Ara l'aplicació es desplega des del servidor DC20.TRANSLOGIC20.TEST amb la vers
 
 1. Crear la carpeta.
 2. Compartir-la amb nom perfils i permisos de compartir: Usuaris del domini amb Canvi.
-3. Configurar permisos NTFS: Usuaris del domini amb Modificació.
+3. Veureu amb el client:
 
 Tal com es veu a les imatges:
 
-![foto](img/18.png)
-![foto](img/19.png)
-![foto](img/20.png)
+![foto](img/9J4yy.jpg)
+![foto](img/LNf4X.jpg)
+![foto](img/b7vWf.jpg)
 
 ---
 
