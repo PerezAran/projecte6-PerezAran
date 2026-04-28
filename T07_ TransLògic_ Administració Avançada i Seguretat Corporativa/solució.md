@@ -149,7 +149,7 @@ Tal com es veu a la imatge:
 
 Tal com es veu a la imatge:
 
-![foto](img/100.jpg)
+![foto](img/SKCGo.jpg)
 ![foto](img/200.jpg)
 ![foto](img/300.jpg)
 ---
