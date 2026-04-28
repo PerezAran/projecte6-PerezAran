@@ -155,7 +155,7 @@ Tal com es veu a la imatge:
 ---
 ### 2.3 Desplagament firefox:
 
-![foto](img/100.jpg)
+![foto](img/bZHed.jpg)
 
 S'ha actualitzat la configuració del Firefox a través de Group Policy per al domini translogic20.test.
 Ara l'aplicació es desplega des del servidor DC20.TRANSLOGIC20.TEST amb la versió 148.0 publicada correctament.
