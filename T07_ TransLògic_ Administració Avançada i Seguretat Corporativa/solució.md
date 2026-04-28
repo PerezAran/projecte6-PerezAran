@@ -149,8 +149,9 @@ Tal com es veu a la imatge:
 
 Tal com es veu a la imatge:
 
-![foto](img/17.png)
-
+![foto](img/100.jpg)
+![foto](img/200.jpg)
+![foto](img/300.jpg)
 ---
 ### 2.3 Desplagament firefox:
 
