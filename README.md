@@ -1,7 +1,3 @@
-A continuació tens el resum de la descripció del **Projecte Nexus** optimitzat en format Markdown. S'ha estructurat de manera neta, professional i visualment atractiva, ideal per afegir directament al `README.md` del teu repositori de GitHub.
-
----
-
 # 🚀 Projecte Nexus: Entorn E-Learning Sostenible
 
 El **Projecte Nexus** consisteix en l'estudi, desplegament i presentació d'una plataforma de formació *online* pròpia orientada a tècnics informàtics. La infraestructura s'ha de construir sobre un model de servidor eficient, sostenible i amb costos controlats, simulant un encàrrec professional real per a una petita o mitjana organització.
