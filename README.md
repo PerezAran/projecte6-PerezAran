@@ -77,7 +77,7 @@ Anàlisi crítica des del punt de vista d'un tècnic SMX avaluant:
 
 | Codi | Producte / Activitat | Enllaç Directe |
 | :--- | :--- | :--- |
-| **P01** | Producte final memòria tècnica de la prop... | [Anar a la carpeta](./P01__Producte%20final%20mem%C3%B2ria%20t%C3%A8cnica%20de%20la%20prop...) |
+| **P01** | Producte final memòria tècnica de la prop... | [Anar a la carpeta](./P01_%20Producte%20final%20memòria%20tècnica%20de%20la%20proposta) |
 | **P02** | Presentació de la proposta al client | [Anar a la carpeta](./P02_%20Presentaci%C3%B3%20de%20la%20proposta%20al%20client) |
 | **P03** | Estructura repositori | [Anar a la carpeta](./P03_%20Estructura%20repositori) |
 
