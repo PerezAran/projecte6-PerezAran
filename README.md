@@ -89,7 +89,7 @@ Anàlisi crítica des del punt de vista d'un tècnic SMX avaluant:
 | :--- | :--- | :--- |
 | **T00** | Presentació del projecte | [Anar a la carpeta](./T00_%20Presentaci%C3%B3%20del%20projecte) |
 | **T02** | Missió Apache_ Desplegament Multidomini... | [Anar a la carpeta](./T02_%20Missió%20Apache_%20Desplegament%20Multidomini%20i%20segur) |
-| **T03** | Missió Nginx_ Migració d'Alt Rendiment i ... | [Anar a la carpeta](./T03_%20Missi%C3%B3%20Nginx_%20Migraci%C3%B3%20d'Alt%20Rendiment%20i%20...) |
+| **T03** | Missió Nginx_ Migració d'Alt Rendiment i ... | [Anar a la carpeta](./T03_%20Missió%20Nginx_%20Migració%20d'Alt%20Rendiment%20i%20Arquitectura%20Lleugera) |
 | **T04** | Duel de titans, Apache vs Nginx | [Anar a la carpeta](./T04_%20Duel%20de%20titans,%20Apache%20vs%20Nginx) |
 | **T05** | Top Secret, protegint els secrets | [Anar a la carpeta](./T05_%20Top%20Secret,%20protegint%20els%20secrets) |
 | **T06** | Projecte Nexus. Implantació de PKI i Signa... | [Anar a la carpeta](./T06_%20Projecte%20Nexus.%20Implantaci%C3%B3%20de%20PKI%20i%20Signa...) |
