@@ -95,7 +95,7 @@ Anàlisi crítica des del punt de vista d'un tècnic SMX avaluant:
 | **T06** | Projecte Nexus. Implantació de PKI i Signa... | [Anar a la carpeta](./T06_%20Projecte%20Nexus.%20Implantació%20de%20PKI%20i%20Signatura%20Digital%20Corporativa) |
 | **T07** | TransLògic_ Administració Avançada i Seg... | [Anar a la carpeta](./T07_%20TransLògic_%20Administració%20Avançada%20i%20Seguretat%20Corporativa) |
 | **T08** | Vigilància i auditoria de sistemes | [Anar a la carpeta](./T08_%20Vigil%C3%A0ncia%20i%20auditoria%20de%20sistemes) |
-| **T09** | Creació d’una acadèmia amb un curs de G... | [Anar a la carpeta](./T09_%20Creaci%C3%B3%20d%E2%80%99una%20acad%C3%A8mia%20amb%20un%20curs%20de%20G...) |
+| **T09** | Creació d’una acadèmia amb un curs de G... | [Anar a la carpeta](./T09_%20Creació%20d’una%20acadèmia%20amb%20un%20curs%20de%20GreenIT%20amb%20Moodle) |
 | **T10** | Canvas LMS una alternativa a Moodle | [Anar a la carpeta](./T10_%20Canvas%20LMS%20una%20alternativa%20a%20Moodle) |
 | **T11** | Comparativa Moodle vs Canvas LMS | [Anar a la carpeta](./T11_%20Comparativa%20Moodle%20vs%20Canvas%20LMS) |
 | **T12** | Tasca IPO II | [Anar a la carpeta](./T12_%20Tasca%20IPO%20II) |
