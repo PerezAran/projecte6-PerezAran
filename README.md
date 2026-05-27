@@ -71,34 +71,33 @@ Anàlisi crítica des del punt de vista d'un tècnic SMX avaluant:
 
 ---
 
-# 📂 Índex del Projecte 6: Nexus
+# 📂 Índex del Projecte 6: Nexus (PerezAran)
 
-## 📌 Productes (Lliuraments Formals)
+### 📌 Productes (Lliuraments Formals)
 
 | Codi | Producte / Activitat | Enllaç Directe |
-| --- | --- | --- |
-| **P01** | Producte final memòria tècnica de la proposta | [Anar a la carpeta](https://www.google.com/search?q=./P01__Producte%2520final%2520mem%C3%B2ria%2520t%C3%A8cnica%2520de%2520la%2520proposta) |
-| **P02** | Presentació de la proposta al client | [Anar a la carpeta](https://www.google.com/search?q=./P02__Presentaci%C3%B3%2520de%2520la%2520proposta%2520al%2520client) |
-| **P03** | Estructura repositori | [Anar a la carpeta](https://www.google.com/search?q=./P03__Estructura%2520repositori) |
+| :--- | :--- | :--- |
+| **P01** | Producte final memòria tècnica de la prop... | [Anar a la carpeta](./P01__Producte%20final%20mem%C3%B2ria%20t%C3%A8cnica%20de%20la%20prop...) |
+| **P02** | Presentació de la proposta al client | [Anar a la carpeta](./P02_%20Presentaci%C3%B3%20de%20la%20proposta%20al%20client) |
+| **P03** | Estructura repositori | [Anar a la carpeta](./P03_%20Estructura%20repositori) |
 
 ---
 
-## 📝 Tasques de Seguiment i Documentació
+### 📝 Tasques de Seguiment i Documentació
 
 | Codi | Descripció de la Tasca | Enllaç Directe |
-| --- | --- | --- |
-| **T00** | Presentació del projecte | [Anar a la carpeta](https://www.google.com/search?q=./T00__Presentaci%C3%B3%2520del%2520projecte) |
-| **T02** | Missió Apache_ Desplegament Multidomini i segur | [Anar a la carpeta](https://www.google.com/search?q=./T02__Missi%C3%B3%2520Apache_%2520Desplegament%2520Multidomini%2520i%2520segur) |
-| **T03** | Missió Nginx_ Migració d'Alt Rendiment i Arquitectura Lleugera | [Anar a la carpeta](https://www.google.com/search?q=./T03__Missi%C3%B3%2520Nginx_%2520Migraci%C3%B3%2520d%27Alt%2520Rendiment%2520i%2520Arquitectura%2520Lleugera) |
-| **T04** | Duel de titans, Apache vs Nginx | [Anar a la carpeta](https://www.google.com/search?q=./T04__Duel%2520de%2520titans,%2520Apache%2520vs%2520Nginx) |
-| **T05** | Top Secret, protegint els secrets | [Anar a la carpeta](https://www.google.com/search?q=./T05__Top%2520Secret,%2520protegint%2520els%2520secrets) |
-| **T06** | Projecte Nexus. Implantació de PKI i Signatura Digital Corporativa | [Anar a la carpeta](https://www.google.com/search?q=./T06__Projecte%2520Nexus.%2520Implantaci%C3%B3%2520de%2520PKI%2520i%2520Signatura%2520Digital%2520Corporativa) |
-| **T07** | TransLògic_ Administració Avançada i Seguretat Corporativa | [Anar a la carpeta](https://www.google.com/search?q=./T07__TransL%C3%B2gic_%2520Administraci%C3%B3%2520Avan%C3%A7ada%2520i%2520Seguretat%2520Corporativa) |
-| **T08** | Vigilància i auditoria de sistemes | [Anar a la carpeta](https://www.google.com/search?q=./T08__Vigil%C3%A0ncia%2520i%2520auditoria%2520de%2520sistemes) |
-| **T09** | Creació d’una acadèmia amb un curs de GreenIT amb Moodle | [Anar a la carpeta](https://www.google.com/search?q=./T09__Creaci%C3%B3%2520d%E2%80%99una%2520acad%C3%A8mia%2520amb%2520un%2520curs%2520de%2520GreenIT%2520amb%2520Moodle) |
-| **T10** | Canvas LMS una alternativa a Moodle | [Anar a la carpeta](https://www.google.com/search?q=./T10__Canvas%2520LMS%2520una%2520alternativa%2520a%2520Moodle) |
-| **T11** | Comparativa Moodle vs Canvas LMS | [Anar a la carpeta](https://www.google.com/search?q=./T11__Comparativa%2520Moodle%2520vs%2520Canvas%2520LMS) |
-| **T12** | Tasca IPO II | [Anar a la carpeta](https://www.google.com/search?q=./T12__Tasca%2520IPO%2520II) |
-| **T13** | Omplim el curs de sostenibilitat | [Anar a la carpeta](https://www.google.com/search?q=./T13__Omplim%2520el%2520curs%2520de%2520sostenibilitat) |
-
+| :--- | :--- | :--- |
+| **T00** | Presentació del projecte | [Anar a la carpeta](./T00_%20Presentaci%C3%B3%20del%20projecte) |
+| **T02** | Missió Apache_ Desplegament Multidomini... | [Anar a la carpeta](./T02_%20Missi%C3%B3%20Apache_%20Desplegament%20Multidomi...) |
+| **T03** | Missió Nginx_ Migració d'Alt Rendiment i ... | [Anar a la carpeta](./T03_%20Missi%C3%B3%20Nginx_%20Migraci%C3%B3%20d'Alt%20Rendiment%20i%20...) |
+| **T04** | Duel de titans, Apache vs Nginx | [Anar a la carpeta](./T04_%20Duel%20de%20titans,%20Apache%20vs%20Nginx) |
+| **T05** | Top Secret, protegint els secrets | [Anar a la carpeta](./T05_%20Top%20Secret,%20protegint%20els%20secrets) |
+| **T06** | Projecte Nexus. Implantació de PKI i Signa... | [Anar a la carpeta](./T06_%20Projecte%20Nexus.%20Implantaci%C3%B3%20de%20PKI%20i%20Signa...) |
+| **T07** | TransLògic_ Administració Avançada i Seg... | [Anar a la carpeta](./T07_%20TransL%C3%B2gic_%20Administraci%C3%B3%20Avan%C3%A7ada%20i%20Seg...) |
+| **T08** | Vigilància i auditoria de sistemes | [Anar a la carpeta](./T08_%20Vigil%C3%A0ncia%20i%20auditoria%20de%20sistemes) |
+| **T09** | Creació d’una acadèmia amb un curs de G... | [Anar a la carpeta](./T09_%20Creaci%C3%B3%20d%E2%80%99una%20acad%C3%A8mia%20amb%20un%20curs%20de%20G...) |
+| **T10** | Canvas LMS una alternativa a Moodle | [Anar a la carpeta](./T10_%20Canvas%20LMS%20una%20alternativa%20a%20Moodle) |
+| **T11** | Comparativa Moodle vs Canvas LMS | [Anar a la carpeta](./T11_%20Comparativa%20Moodle%20vs%20Canvas%20LMS) |
+| **T12** | Tasca IPO II | [Anar a la carpeta](./T12_%20Tasca%20IPO%20II) |
+| **T13** | Omplim el curs de sostenibilitat | [Anar a la carpeta](./T13_%20Omplim%20el%20curs%20de%20sostenibilitat) |
 ---
