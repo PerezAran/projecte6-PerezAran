@@ -101,3 +101,6 @@ Anàlisi crítica des del punt de vista d'un tècnic SMX avaluant:
 | **T12** | Tasca IPO II | [Anar a la carpeta](./T12_%20Tasca%20IPO%20II) |
 | **T13** | Omplim el curs de sostenibilitat | [Anar a la carpeta](./T13_%20Omplim%20el%20curs%20de%20sostenibilitat) |
 ---
+
+[Anar a presetacio](https://github.com/PerezAran/presentacio)
+
