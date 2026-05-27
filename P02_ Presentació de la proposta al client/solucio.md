@@ -1,3 +1,3 @@
 ### Enllaç Presentació
 
-[ENTRAR](https://chat.google.com/dm/wQ5EKcAAAAE/qov_C9YCNjY/qov_C9YCNjY?cls=10)
+[ENTRAR](https://gamma.app/docs/MaresmeTech-Solutions-Estrategia-de-Mercat-i-Proposta-de-Valor-ra1ua9fwkixp8bg)
