@@ -93,7 +93,7 @@ Anàlisi crítica des del punt de vista d'un tècnic SMX avaluant:
 | **T04** | Duel de titans, Apache vs Nginx | [Anar a la carpeta](./T04_%20Duel%20de%20titans,%20Apache%20vs%20Nginx) |
 | **T05** | Top Secret, protegint els secrets | [Anar a la carpeta](./T05_%20Top%20Secret,%20protegint%20els%20secrets) |
 | **T06** | Projecte Nexus. Implantació de PKI i Signa... | [Anar a la carpeta](./T06_%20Projecte%20Nexus.%20Implantació%20de%20PKI%20i%20Signatura%20Digital%20Corporativa) |
-| **T07** | TransLògic_ Administració Avançada i Seg... | [Anar a la carpeta](./T07_%20TransL%C3%B2gic_%20Administraci%C3%B3%20Avan%C3%A7ada%20i%20Seg...) |
+| **T07** | TransLògic_ Administració Avançada i Seg... | [Anar a la carpeta](./T07_%20TransLògic_%20Administració%20Avançada%20i%20Seguretat%20Corporativa) |
 | **T08** | Vigilància i auditoria de sistemes | [Anar a la carpeta](./T08_%20Vigil%C3%A0ncia%20i%20auditoria%20de%20sistemes) |
 | **T09** | Creació d’una acadèmia amb un curs de G... | [Anar a la carpeta](./T09_%20Creaci%C3%B3%20d%E2%80%99una%20acad%C3%A8mia%20amb%20un%20curs%20de%20G...) |
 | **T10** | Canvas LMS una alternativa a Moodle | [Anar a la carpeta](./T10_%20Canvas%20LMS%20una%20alternativa%20a%20Moodle) |
